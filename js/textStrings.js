@@ -213,10 +213,10 @@ var textStrings_JP = {
     "niceHat"              : "おっイカした帽子"                                          ,
     "outtaHere"            : "yeah git on outta here"                                ,
     "getARoom"             : "家でやってくれ"                                  ,
-    "notCoolAnymore"       : "帽子は流行ってない"                          ,
+    "notCoolAnymore"       : "帽子はもう古い"                          ,
     "tvOnTv"               : "テレビに…テレビだ!"                                        ,
     "cricky"               : "リンリンってね	<3"                                        ,
-    "tooManyCrickets"      : "たくさんのコオロギだ"                         ,
+    "tooManyCrickets"      : "たくさんのコオロギ"                         ,
     "normalPeep"           : "ただの人だ"                                    ,
     "normalPeeps"          : "ただの人たちだ"                                ,
     "wowNothing"           : "オイオイオイ、何もないって"                                  ,
@@ -225,7 +225,7 @@ var textStrings_JP = {
     "crazySquareAttacks"   : "四角人、凶暴に"                                 ,
     "justMissed"           : "撮り損ねたみたいだ"                                 ,
     "somethingInteresting" : "(何かしでかしそうだ…)" ,
-    "whoIsScreaming"       : "(一体どうして叫んでるんだろうな)"               ,
+    "whoIsScreaming"       : "(どうして叫んでるんだろうな)"               ,
     "circleFearsSquares"   : "丸人、四角人に畏怖"                                  ,
     "whoScaresThem"        : "(一体誰に怯えてるんだろうな)"         ,
     "areTheyScared"        : "(何を恐れてるかを撮らないとな)"       , // not used
@@ -235,14 +235,14 @@ var textStrings_JP = {
     "almostEveryoneHates"  : "糾弾の渦が広がる…"                     ,
     "squaresHateCircles"   : "四角人、丸人を糾弾"                                  ,
     "circlesHateSquares"   : "丸人、四角人を糾弾"                                  ,
-    "areTheyYelling"       : "(誰に叫んでるんだろうな)"              , // not used
+    "areTheyYelling"       : "(誰に叫んでるんだ)"              , // not used
     "nerdsNow"             : "何やってんだか"                        ,
     "schockedPeep"         : "何に怯えているんだろう?"                              ,
     "whatever"             : "それはさておき"                                              ,
     
     // Act 3
     "ellipsis"             : "…"                                                 ,
-    "coolNoMore"           : "帽子は時代遅れだってば"           ,
+    "coolNoMore"           : "もう時代遅れだってば"           ,
     "beScared"             : "殺られる前に殺れ。"                                  ,
     
     // MANIFESTO
