@@ -212,48 +212,48 @@ var textStrings_JP = {
     // Act 1
     "niceHat"              : "おっイカした帽子"                                          ,
     "outtaHere"            : "yeah git on outta here"                                ,
-    "getARoom"             : "なあ、家でやってくれないか"                                  ,
-    "notCoolAnymore"       : "うーんもう帽子は流行らないかな"                          ,
-    "tvOnTv"               : "テレビ……にテレビが映ってる!"                                        ,
-    "cricky"               : "リンリンって鳴いてるよ <3"                                        ,
-    "tooManyCrickets"      : "そうだな。コオロギがたくさんいるな"                         ,
+    "getARoom"             : "家でやってくれ"                                  ,
+    "notCoolAnymore"       : "帽子はもう流行っていない"                          ,
+    "tvOnTv"               : "テレビ…の中にテレビ!"                                        ,
+    "cricky"               : "リンリンってね	<3"                                        ,
+    "tooManyCrickets"      : "たくさんのコオロギだ"                         ,
     "normalPeep"           : "ただの人だ"                                    ,
     "normalPeeps"          : "ただの人たちだ"                                ,
     "wowNothing"           : "オイオイオイ、何もないって"                                  ,
     
     // Act 2
-    "crazySquareAttacks"   : "発狂した四角人、凶暴に"                                 ,
-    "justMissed"           : "おおっと、撮り損ねたみたいだ"                                 ,
-    "somethingInteresting" : "(何かとんでもないことをしでかすんじゃないか……)" ,
+    "crazySquareAttacks"   : "四角人、凶暴に"                                 ,
+    "justMissed"           : "撮り損ねたみたいだ"                                 ,
+    "somethingInteresting" : "(何かしでかしそうだ…)" ,
     "whoIsScreaming"       : "(一体どうして叫んでるんだろうな)"               ,
-    "circleFearsSquares"   : "丸人、四角人を恐れる"                                  ,
+    "circleFearsSquares"   : "丸人、四角人に畏怖"                                  ,
     "whoScaresThem"        : "(一体誰に怯えてるんだろうな)"         ,
-    "areTheyScared"        : "(ya gotta catch 'em *being* scared by a square)"       , // not used
+    "areTheyScared"        : "(何を恐れてるかを撮らないとな)"       , // not used
     "squaresSnubCircles"   : "四角人、丸人を無視"                                  ,
-    "areTheySnubbed"       : "(ya gotta catch 'em *while* snubbing a circle)"        , // not used
-    "everyoneHates"        : "誰もが君を狙っているぞ!!1!"                           ,
-    "almostEveryoneHates"  : "糾弾の渦が広まりつつある……"                     ,
+    "areTheySnubbed"       : "(誰に無視されてるんだろうな)"        , // not used
+    "everyoneHates"        : "皆が君を狙ってるぞ!!1!"                           ,
+    "almostEveryoneHates"  : "糾弾の渦が広がる…"                     ,
     "squaresHateCircles"   : "四角人、丸人を糾弾"                                  ,
     "circlesHateSquares"   : "丸人、四角人を糾弾"                                  ,
-    "areTheyYelling"       : "(ya gotta catch 'em *yelling* at others)"              , // not used
-    "nerdsNow"             : "まったくこいつらは何やってるんだか"                        ,
+    "areTheyYelling"       : "(誰に叫んでるんだろうな)"              , // not used
+    "nerdsNow"             : "まったく何やってんだか"                        ,
     "schockedPeep"         : "一体何に怯えているんだろう?"                              ,
     "whatever"             : "それはさておき"                                              ,
     
     // Act 3
     "ellipsis"             : "……"                                                 ,
-    "coolNoMore"           : "帽子はもう流行っていないんだって、テレビ見ただろ?"           ,
-    "beScared"             : "隣人を恐れよ。殺られる前に殺れ"                                  ,
+    "coolNoMore"           : "帽子はもう流行っていないってば"           ,
+    "beScared"             : "隣人に殺られる前に殺れ。"                                  ,
     
     // MANIFESTO
     "manifesto" : [
        //"as if you viewers want GOOD news"       ,
-       "どこのどいつがこんな茶番を見たがるんだ?",
-       "平和はうんざりだ。暴力の渦を広げよ",
+       "誰がこんな茶番を見たがるんだ?",
+       "平和はもううんざりだ。",
        //"peace is boring. conflict gets clicks." ,
-       "演出をもっと派手にしないとな。だから……"  ,
+       "もっと派手な演出がいるな…"  ,
        //"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
-       "視聴者が求めるものを撮れ"
+       "視聴者は何が見たい?"
     ] ,
     
     // -- Strings currently in graphics resources --
@@ -273,23 +273,23 @@ var textStrings_JP = {
     "NickyCase"          : "Nicky Case" ,
     
     // (credits0002.png)
-    "manyThanks"         : "テストプレイヤーの皆さんに感謝します:" ,
+    "manyThanks"         : "テストプレイヤーの皆さんに:" ,
     
     // (credits000[3,4,5,6].png)
     "patreonSupporters"  : "patreonで支援していただいてる皆さんと:" ,
     
     // (credits0007.png)
-    "lastButNotLeast"    : "そして誰よりも忘れてはいけない" ,
+    "lastButNotLeast"    : "そして誰よりも" ,
     
     // (credits0008.png)
-    "thankYouForPlaying" : "プレイしてくださった貴方に感謝します!" ,
+    "thankYouForPlaying" : "プレイしてくれた貴方に感謝します!" ,
     
     // (preload_play.png)
     "playButton"         : "PLAY" ,
     
     // (end_button.png) Post Credits
     "otherWorkButton"    : "他の作品を見る" ,
-    "buyCoffeeButton"    : "僕にコーヒーを奢ってくれませんか" ,
+    "buyCoffeeButton"    : "僕にコーヒーを一杯" ,
     "replayButton"       : "もう一回プレイする" ,
     
     // (logo.png) Post Credits
@@ -309,4 +309,4 @@ var textStrings_JP = {
     // (quote0004.png)
     "misatrributed"      : "(引用)" ,
 };
-var textStrings = textStrings_JP;
+var textStrings = textStrings_JP
