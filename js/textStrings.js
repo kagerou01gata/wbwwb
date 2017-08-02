@@ -309,4 +309,4 @@ var textStrings_JP = {
     // (quote0004.png)
     "misatrributed"      : "(misattributed)" ,
 };
-var textStrings = textStrings_EN
+var textStrings = textStrings_JP
