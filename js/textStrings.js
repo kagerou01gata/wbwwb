@@ -300,13 +300,13 @@ var textStrings_JP = {
     "toBeContinued"      : "(to be continued!)" ,
     
     // (quote0002.png)
-    "WBWWB"              : "見たものに我らはなる。" ,
+    "WBWWB"              : "括目せしものに我らはなる。" ,
     "WSOTATOTSU"         : "人が道具を作り、道具が人を作る。" ,
     
     // (quote0003.png)
     "MarshallMcLuhan"    : "マーシャル・マクルーハン" ,
     
     // (quote0004.png)
-    "misatrributed"      : "(引用)" ,
+    "misatrributed"      : "(誤引用)" ,
 };
 var textStrings = textStrings_JP
