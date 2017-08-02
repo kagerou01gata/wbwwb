@@ -225,13 +225,13 @@ var textStrings_JP = {
     "crazySquareAttacks"   : "発狂した四角人、凶暴に"                                 ,
     "justMissed"           : "おおっと、撮り損ねたみたいだ"                                 ,
     "somethingInteresting" : "(何かとんでもないことをしでかすんじゃないか……)" ,
-    "whoIsScreaming"       : "(一体どうして叫んでるんだろうな"               ,
+    "whoIsScreaming"       : "(一体どうして叫んでるんだろうな)"               ,
     "circleFearsSquares"   : "丸人、四角人を恐れる"                                  ,
-    "whoScaresThem"        : "(ya gotta also catch *who* they're scared by)"         ,
+    "whoScaresThem"        : "(一体誰に怯えてるんだろうな)"         ,
     "areTheyScared"        : "(ya gotta catch 'em *being* scared by a square)"       , // not used
     "squaresSnubCircles"   : "四角人、丸人を無視"                                  ,
     "areTheySnubbed"       : "(ya gotta catch 'em *while* snubbing a circle)"        , // not used
-    "everyoneHates"        : "EVERYONE HATES EVERYONE!!1!"                           ,
+    "everyoneHates"        : "誰もが君を狙っているぞ!!1!"                           ,
     "almostEveryoneHates"  : "糾弾の渦が広まりつつある……"                     ,
     "squaresHateCircles"   : "四角人、丸人を糾弾"                                  ,
     "circlesHateSquares"   : "丸人、四角人を糾弾"                                  ,
@@ -248,7 +248,7 @@ var textStrings_JP = {
     // MANIFESTO
     "manifesto" : [
        //"as if you viewers want GOOD news"       ,
-       "who tunes in to watch *people get along?*",
+       "どこのどいつがこんな茶番を見たがるんだ?",
        "平和はうんざりだ。暴力の渦を広げよ"
        //"peace is boring. conflict gets clicks." ,
        "演出をもっと派手にしないとな。だから……"  ,
@@ -260,7 +260,7 @@ var textStrings_JP = {
     
     // (bg_preload.png) Preload screen
     "playingTime"        : "プレイ時間:5分" ,
-    "warning"            : "warning: the following program\ncontains scenes of snobbery,\nrudeness & mass murder.\nviewer discretion is advised." ,
+    "warning"            : "警告:本作は低俗な表現、非道的内容、大量殺人の要素を含みます。ご留意ください。" ,
     
     // (cam-instructions.png) Camera Instructions
     "pointAndClick"      : "被写体をクリック" ,
@@ -300,13 +300,13 @@ var textStrings_JP = {
     "toBeContinued"      : "(to be continued!)" ,
     
     // (quote0002.png)
-    "WBWWB"              : "We become what we behold." ,
-    "WSOTATOTSU"         : "我々は道具を先鋭化させたが、道具もまた我々を先鋭化させる。" ,
+    "WBWWB"              : "見たものに我らはなる。" ,
+    "WSOTATOTSU"         : "人が道具を作り、道具が人を作る。" ,
     
     // (quote0003.png)
-    "MarshallMcLuhan"    : "Marshall McLuhan" ,
+    "MarshallMcLuhan"    : "マーシャル・マクルーハン" ,
     
     // (quote0004.png)
-    "misatrributed"      : "(misattributed)" ,
+    "misatrributed"      : "(引用)" ,
 };
 var textStrings = textStrings_JP
