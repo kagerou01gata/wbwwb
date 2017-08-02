@@ -260,7 +260,7 @@ var textStrings_JP = {
     
     // (bg_preload.png) Preload screen
     "playingTime"        : "プレイ時間:5分" ,
-    "warning"            : "警告:本作は低俗な表現、非道的内容、大量殺人の要素を含みます。ご留意ください。" ,
+    "warning"            : "警告:非道的内容、大量殺人の要素を含みます。" ,
     
     // (cam-instructions.png) Camera Instructions
     "pointAndClick"      : "被写体をクリック" ,
