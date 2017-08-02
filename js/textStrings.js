@@ -249,7 +249,7 @@ var textStrings_JP = {
     "manifesto" : [
        //"as if you viewers want GOOD news"       ,
        "どこのどいつがこんな茶番を見たがるんだ?",
-       "平和はうんざりだ。暴力の渦を広げよ"
+       "平和はうんざりだ。暴力の渦を広げよ",
        //"peace is boring. conflict gets clicks." ,
        "演出をもっと派手にしないとな。だから……"  ,
        //"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
@@ -309,4 +309,4 @@ var textStrings_JP = {
     // (quote0004.png)
     "misatrributed"      : "(引用)" ,
 };
-var textStrings = textStrings_JP
+var textStrings = textStrings_JP;
