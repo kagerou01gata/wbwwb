@@ -242,7 +242,7 @@ var textStrings_JP = {
     
     // Act 3
     "ellipsis"             : "…"                                                 ,
-    "coolNoMore"           : "もう時代遅れだって"           ,
+    "coolNoMore"           : "帽子はもう古いって"           ,
     "beScared"             : "殺られる前に殺れ。"                                  ,
     
     // MANIFESTO
@@ -253,7 +253,7 @@ var textStrings_JP = {
        //"peace is boring. conflict gets clicks." ,
        "もっと派手な演出を"  ,
        //"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
-       "視聴者に興奮を"
+       "視聴者に興奮を。"
     ] ,
     
     // -- Strings currently in graphics resources --
