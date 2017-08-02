@@ -224,8 +224,8 @@ var textStrings_JP = {
     // Act 2
     "crazySquareAttacks"   : "四角人、凶暴に"                                 ,
     "justMissed"           : "撮り損ねたみたいだ"                                 ,
-    "somethingInteresting" : "(何かしでかしそうだ…)" ,
-    "whoIsScreaming"       : "(叫ばれたんだ)"               ,
+    "somethingInteresting" : "(何かしそうだ…)" ,
+    "whoIsScreaming"       : "(叫ばれたらしい)"               ,
     "circleFearsSquares"   : "丸人、四角人に畏怖"                                  ,
     "whoScaresThem"        : "(誰に怯えてるんだ)"         ,
     "areTheyScared"        : "(何を恐れてるんだ)"       , // not used
@@ -242,7 +242,7 @@ var textStrings_JP = {
     
     // Act 3
     "ellipsis"             : "…"                                                 ,
-    "coolNoMore"           : "もう時代遅れだってば"           ,
+    "coolNoMore"           : "もう時代遅れだって"           ,
     "beScared"             : "殺られる前に殺れ。"                                  ,
     
     // MANIFESTO
