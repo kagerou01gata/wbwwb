@@ -213,8 +213,8 @@ var textStrings_JP = {
     "niceHat"              : "おっイカした帽子"                                          ,
     "outtaHere"            : "yeah git on outta here"                                ,
     "getARoom"             : "家でやってくれ"                                  ,
-    "notCoolAnymore"       : "帽子はもう流行っていない"                          ,
-    "tvOnTv"               : "テレビ…の中にテレビ!"                                        ,
+    "notCoolAnymore"       : "帽子は流行ってない"                          ,
+    "tvOnTv"               : "テレビに…テレビだ!"                                        ,
     "cricky"               : "リンリンってね	<3"                                        ,
     "tooManyCrickets"      : "たくさんのコオロギだ"                         ,
     "normalPeep"           : "ただの人だ"                                    ,
@@ -231,29 +231,29 @@ var textStrings_JP = {
     "areTheyScared"        : "(何を恐れてるかを撮らないとな)"       , // not used
     "squaresSnubCircles"   : "四角人、丸人を無視"                                  ,
     "areTheySnubbed"       : "(誰に無視されてるんだろうな)"        , // not used
-    "everyoneHates"        : "皆が君を狙ってるぞ!!1!"                           ,
+    "everyoneHates"        : "君たちを狙ってるぞ!!1!"                           ,
     "almostEveryoneHates"  : "糾弾の渦が広がる…"                     ,
     "squaresHateCircles"   : "四角人、丸人を糾弾"                                  ,
     "circlesHateSquares"   : "丸人、四角人を糾弾"                                  ,
     "areTheyYelling"       : "(誰に叫んでるんだろうな)"              , // not used
-    "nerdsNow"             : "まったく何やってんだか"                        ,
-    "schockedPeep"         : "一体何に怯えているんだろう?"                              ,
+    "nerdsNow"             : "何やってんだか"                        ,
+    "schockedPeep"         : "何に怯えているんだろう?"                              ,
     "whatever"             : "それはさておき"                                              ,
     
     // Act 3
-    "ellipsis"             : "……"                                                 ,
-    "coolNoMore"           : "帽子はもう流行っていないってば"           ,
-    "beScared"             : "隣人に殺られる前に殺れ。"                                  ,
+    "ellipsis"             : "…"                                                 ,
+    "coolNoMore"           : "帽子は時代遅れだってば"           ,
+    "beScared"             : "殺られる前に殺れ。"                                  ,
     
     // MANIFESTO
     "manifesto" : [
        //"as if you viewers want GOOD news"       ,
-       "誰がこんな茶番を見たがるんだ?",
-       "平和はもううんざりだ。",
+       "くだらん茶番だね",
+       "平和にはうんざりだ",
        //"peace is boring. conflict gets clicks." ,
-       "もっと派手な演出がいるな…"  ,
+       "もっと派手な演出を…"  ,
        //"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
-       "視聴者は何が見たい?"
+       "視聴者に見せたいか?"
     ] ,
     
     // -- Strings currently in graphics resources --
