@@ -237,7 +237,7 @@ var textStrings_JP = {
     "circlesHateSquares"   : "丸人、四角人を糾弾"                                  ,
     "areTheyYelling"       : "(誰に叫んでるんだ)"              , // not used
     "nerdsNow"             : "何やってんだか"                        ,
-    "schockedPeep"         : "何に怯えているんだろう?"                              ,
+    "schockedPeep"         : "何に怯えているんだ?"                              ,
     "whatever"             : "それはさておき"                                              ,
     
     // Act 3
@@ -253,7 +253,7 @@ var textStrings_JP = {
        //"peace is boring. conflict gets clicks." ,
        "もっと派手な演出を"  ,
        //"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
-       "こいつを視聴者に?"
+       "視聴者に見せるか?"
     ] ,
     
     // -- Strings currently in graphics resources --
@@ -293,7 +293,7 @@ var textStrings_JP = {
     "replayButton"       : "もう一回プレイする" ,
     
     // (logo.png) Post Credits
-    "logoWBWWB"          : "SHARE THE PAIN:" ,
+    "logoWBWWB"          : "痛みを分かち合おう:" ,
     
     // (end_prototype.png)
     "endOfPrototype"     : "END OF PROTOTYPE" ,
