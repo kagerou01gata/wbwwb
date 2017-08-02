@@ -231,7 +231,7 @@ var textStrings_JP = {
     "areTheyScared"        : "(何を恐れてるんだ)"       , // not used
     "squaresSnubCircles"   : "四角人、丸人を差別"                                  ,
     "areTheySnubbed"       : "(誰にやられたんだ)"        , // not used
-    "everyoneHates"        : "皆を狙ってるぞ!!1!"                           ,
+    "everyoneHates"        : "怒りをぶつけろ!!1!"                           ,
     "almostEveryoneHates"  : "批難の応酬は続く…"                     ,
     "squaresHateCircles"   : "四角人、丸人を批難"                                  ,
     "circlesHateSquares"   : "丸人、四角人を批難"                                  ,
@@ -307,6 +307,6 @@ var textStrings_JP = {
     "MarshallMcLuhan"    : "マーシャル・マクルーハン" ,
     
     // (quote0004.png)
-    "misatrributed"      : "(たぶんこんなこと言ってない)" ,
+    "misatrributed"      : "(より引用)" ,
 };
 var textStrings = textStrings_JP
