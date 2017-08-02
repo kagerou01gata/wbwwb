@@ -211,7 +211,7 @@ var textStrings_DE = {
 var textStrings_JP = {
     // Act 1
     "niceHat"              : "おっイカした帽子"                                          ,
-    "outtaHere"            : "yeah git on outta here"                                ,
+    "outtaHere"            : "ここじゃよしてくれ"                                ,
     "getARoom"             : "家でやってくれ"                                  ,
     "notCoolAnymore"       : "帽子はもう古い"                          ,
     "tvOnTv"               : "テレビに…テレビだ!"                                        ,
@@ -225,13 +225,13 @@ var textStrings_JP = {
     "crazySquareAttacks"   : "四角人、凶暴に"                                 ,
     "justMissed"           : "撮り損ねたみたいだ"                                 ,
     "somethingInteresting" : "(何かしでかしそうだ…)" ,
-    "whoIsScreaming"       : "(どうして叫んでるんだろうな)"               ,
+    "whoIsScreaming"       : "(どうして叫んでるんだ)"               ,
     "circleFearsSquares"   : "丸人、四角人に畏怖"                                  ,
-    "whoScaresThem"        : "(一体誰に怯えてるんだろうな)"         ,
-    "areTheyScared"        : "(何を恐れてるかを撮らないとな)"       , // not used
+    "whoScaresThem"        : "(誰に怯えてるんだ)"         ,
+    "areTheyScared"        : "(何を恐れてるんだ)"       , // not used
     "squaresSnubCircles"   : "四角人、丸人を無視"                                  ,
-    "areTheySnubbed"       : "(誰に無視されてるんだろうな)"        , // not used
-    "everyoneHates"        : "君たちを狙ってるぞ!!1!"                           ,
+    "areTheySnubbed"       : "(誰に無視されたんだ)"        , // not used
+    "everyoneHates"        : "皆を狙ってるぞ!!1!"                           ,
     "almostEveryoneHates"  : "糾弾の渦が広がる…"                     ,
     "squaresHateCircles"   : "四角人、丸人を糾弾"                                  ,
     "circlesHateSquares"   : "丸人、四角人を糾弾"                                  ,
@@ -251,16 +251,16 @@ var textStrings_JP = {
        "くだらん茶番だね",
        "平和にはうんざりだ",
        //"peace is boring. conflict gets clicks." ,
-       "もっと派手な演出を…"  ,
+       "もっと派手な演出を"  ,
        //"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
-       "視聴者に見せたいか?"
+       "こいつを視聴者に?"
     ] ,
     
     // -- Strings currently in graphics resources --
     
     // (bg_preload.png) Preload screen
     "playingTime"        : "プレイ時間:5分" ,
-    "warning"            : "警告:非道的内容、大量殺人の要素を含みます。" ,
+    "warning"            : "警告:非道徳的内容、大量殺人の要素を含みます。" ,
     
     // (cam-instructions.png) Camera Instructions
     "pointAndClick"      : "被写体をクリック" ,
