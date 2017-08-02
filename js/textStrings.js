@@ -307,6 +307,6 @@ var textStrings_JP = {
     "MarshallMcLuhan"    : "マーシャル・マクルーハン" ,
     
     // (quote0004.png)
-    "misatrributed"      : "(誤引用)" ,
+    "misatrributed"      : "(たぶんこんなこと言ってない)" ,
 };
 var textStrings = textStrings_JP
