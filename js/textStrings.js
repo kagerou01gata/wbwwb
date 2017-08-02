@@ -232,9 +232,9 @@ var textStrings_JP = {
     "squaresSnubCircles"   : "四角人、丸人を差別"                                  ,
     "areTheySnubbed"       : "(誰にやられたんだ)"        , // not used
     "everyoneHates"        : "皆を狙ってるぞ!!1!"                           ,
-    "almostEveryoneHates"  : "糾弾の渦が広がる…"                     ,
-    "squaresHateCircles"   : "四角人、丸人を糾弾"                                  ,
-    "circlesHateSquares"   : "丸人、四角人を糾弾"                                  ,
+    "almostEveryoneHates"  : "批難の応酬は続く…"                     ,
+    "squaresHateCircles"   : "四角人、丸人を批難"                                  ,
+    "circlesHateSquares"   : "丸人、四角人を批難"                                  ,
     "areTheyYelling"       : "(誰が叫んでるんだ)"              , // not used
     "nerdsNow"             : "何やってんだか"                        ,
     "schockedPeep"         : "何に怯えているんだ"                              ,
@@ -253,14 +253,14 @@ var textStrings_JP = {
        //"peace is boring. conflict gets clicks." ,
        "もっと派手な演出を"  ,
        //"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
-       "視聴者に暴力を"
+       "視聴者に興奮を"
     ] ,
     
     // -- Strings currently in graphics resources --
     
     // (bg_preload.png) Preload screen
     "playingTime"        : "プレイ時間:5分" ,
-    "warning"            : "警告:非道徳的内容、大量殺人の要素を含みます。" ,
+    "warning"            : "警告:本作には卑劣な言動、\n非道徳的内容、大量殺人の要素を含みます。\nそれを踏まえたうえでプレイして下さい。" ,
     
     // (cam-instructions.png) Camera Instructions
     "pointAndClick"      : "被写体をクリック" ,
