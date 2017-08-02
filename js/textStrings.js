@@ -225,7 +225,7 @@ var textStrings_JP = {
     "crazySquareAttacks"   : "四角人、凶暴に"                                 ,
     "justMissed"           : "撮り損ねたみたいだ"                                 ,
     "somethingInteresting" : "(何かしでかしそうだ…)" ,
-    "whoIsScreaming"       : "(どうして叫んでるんだ)"               ,
+    "whoIsScreaming"       : "(叫ばれたんだ)"               ,
     "circleFearsSquares"   : "丸人、四角人に畏怖"                                  ,
     "whoScaresThem"        : "(誰に怯えてるんだ)"         ,
     "areTheyScared"        : "(何を恐れてるんだ)"       , // not used
@@ -235,9 +235,9 @@ var textStrings_JP = {
     "almostEveryoneHates"  : "糾弾の渦が広がる…"                     ,
     "squaresHateCircles"   : "四角人、丸人を糾弾"                                  ,
     "circlesHateSquares"   : "丸人、四角人を糾弾"                                  ,
-    "areTheyYelling"       : "(誰に叫んでるんだ)"              , // not used
+    "areTheyYelling"       : "(誰が叫んでるんだ)"              , // not used
     "nerdsNow"             : "何やってんだか"                        ,
-    "schockedPeep"         : "何に怯えているんだ?"                              ,
+    "schockedPeep"         : "何に怯えているんだ"                              ,
     "whatever"             : "それはさておき"                                              ,
     
     // Act 3
@@ -253,7 +253,7 @@ var textStrings_JP = {
        //"peace is boring. conflict gets clicks." ,
        "もっと派手な演出を"  ,
        //"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
-       "視聴者に見せるか?"
+       "視聴者に暴力を"
     ] ,
     
     // -- Strings currently in graphics resources --
@@ -300,7 +300,7 @@ var textStrings_JP = {
     "toBeContinued"      : "(to be continued!)" ,
     
     // (quote0002.png)
-    "WBWWB"              : "括目せしものに我らはなる。" ,
+    "WBWWB"              : "見たものに我らはなる。" ,
     "WSOTATOTSU"         : "人が道具を作り、道具が人を作る。" ,
     
     // (quote0003.png)
