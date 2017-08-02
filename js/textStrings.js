@@ -229,8 +229,8 @@ var textStrings_JP = {
     "circleFearsSquares"   : "丸人、四角人に畏怖"                                  ,
     "whoScaresThem"        : "(誰に怯えてるんだ)"         ,
     "areTheyScared"        : "(何を恐れてるんだ)"       , // not used
-    "squaresSnubCircles"   : "四角人、丸人を無視"                                  ,
-    "areTheySnubbed"       : "(誰に無視されたんだ)"        , // not used
+    "squaresSnubCircles"   : "四角人、丸人を差別"                                  ,
+    "areTheySnubbed"       : "(誰にやられたんだ)"        , // not used
     "everyoneHates"        : "皆を狙ってるぞ!!1!"                           ,
     "almostEveryoneHates"  : "糾弾の渦が広がる…"                     ,
     "squaresHateCircles"   : "四角人、丸人を糾弾"                                  ,
